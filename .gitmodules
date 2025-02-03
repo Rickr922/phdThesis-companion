@@ -1,3 +1,6 @@
 [submodule "yaybahar-nit"]
 	path = yaybahar-nit
 	url = https://github.com/Nemus-Project/yaybahar-nit
+[submodule "EfficientBowedString"]
+	path = EfficientBowedString
+	url = https://github.com/Nemus-Project/EfficientBowedString
