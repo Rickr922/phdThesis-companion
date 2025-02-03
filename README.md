@@ -16,13 +16,13 @@ Contains three audio files related to Figures 5.8–5.11, along with the figures
 
 Additionally, the video `hammerStringCollision` is an animation illustrating a hammer-string collision, from which Figure 5.6 is taken.
 
+## EfficientBowedString (Chapter 6)
+Links to the companion repository for the paper *Efficient Simulation of the Bowed String in Modal Form*, from which much of Chapter 6 is derived. This repository contains audio examples and MATLAB code, with file descriptions provided inside.
+
 ## Guitar (Chapter 7, First Paper)
 Stores various audio examples from the first paper presented in this chapter, all obtained using the model described in the paper:
 - `KConly_Audio`, `KCfretboard_Audio`, and `Tap_Audio` correspond to panels (a), (b), and (c) of Figure 3 in the paper, respectively. The related figures are also included.
 - `Tap_Video` is a real-time animation of the energy behavior shown in Figure 2, corresponding to the `Tap` sound and figure.
-
-## EfficientBowedString (Chapter 6)
-Links to the companion repository for the paper *Efficient Simulation of the Bowed String in Modal Form*, from which much of Chapter 6 is derived. This repository contains audio examples and MATLAB code, with file descriptions provided inside.
 
 ## yaybahar-nit (Chapter 7, Second Paper)
 Links to the companion repository for the second paper presented in Chapter 7, where file descriptions can be found.
